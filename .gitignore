@@ -5,6 +5,9 @@ data/
 # secrets
 secrets/
 
+# not to be commited
+not_commit.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
