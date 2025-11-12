@@ -8,6 +8,10 @@ secrets/
 # not to be commited
 not_commit.py
 
+# No images
+*.png
+*.jpg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
